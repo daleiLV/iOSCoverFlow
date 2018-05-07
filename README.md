@@ -1,6 +1,0 @@
-# iOSCoverFlow
-iOS cover flow 
-使用UICollectionView实现iOS中的coverflow效果
-这个效果使用改变cell的size来完成cell之间的重叠效果更加完善
-实现这个效果的方法是把继承UICollectionviewlayout的类拖到项目中简单的配置即可
-
